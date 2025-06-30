@@ -7,5 +7,15 @@
             "custom domains",
             "free"
         ]
+    },
+    {
+        "id": 2,
+        "name": "Bitly",
+        "url": "https:/bitly.com",
+        "tags": [
+            "custom domains",
+            "free",
+            "paid"
+        ]
     }
 ]

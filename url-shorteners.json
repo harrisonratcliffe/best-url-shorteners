@@ -3,6 +3,8 @@
         "id": 1,
         "name": "Pretty URL",
         "url": "https://prettyurl.net",
+        "sticky": true,
+        "logo": "https://raw.githubusercontent.com/harrisonratcliffe/best-url-shorteners/refs/heads/main/logos/prettyurl.webp",
         "tags": [
             "custom domains",
             "free"
@@ -12,6 +14,8 @@
         "id": 2,
         "name": "Bitly",
         "url": "https:/bitly.com",
+        "sticky": false,
+        "logo": "https://raw.githubusercontent.com/harrisonratcliffe/best-url-shorteners/refs/heads/main/logos/bitly.svg",
         "tags": [
             "custom domains",
             "free",

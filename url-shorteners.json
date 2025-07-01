@@ -27,7 +27,7 @@
     "name": "v.gd",
     "url": "https://v.gd/",
     "sticky": false,
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/harrisonratcliffe/best-url-shorteners/refs/heads/main/logos/vgd.png",
     "tags": [
       "free"
     ]
@@ -37,7 +37,7 @@
     "name": "URLR",
     "url": "https://urlr.me/en/",
     "sticky": false,
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/harrisonratcliffe/best-url-shorteners/refs/heads/main/logos/urlr.svg",
     "tags": [
       "free",
       "paid",
@@ -50,7 +50,7 @@
     "name": "T.ly",
     "url": "https://t.ly/",
     "sticky": false,
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/harrisonratcliffe/best-url-shorteners/refs/heads/main/logos/tly.png",
     "tags": [
       "free",
       "paid",
@@ -63,7 +63,7 @@
     "name": "Tiny CC",
     "url": "https://tinycc.com/",
     "sticky": false,
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/harrisonratcliffe/best-url-shorteners/refs/heads/main/logos/tinycc.svg",
     "tags": [
       "paid",
       "custom domains",
@@ -75,7 +75,7 @@
     "name": "Tinu.be",
     "url": "https://tinu.be/en",
     "sticky": false,
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/harrisonratcliffe/best-url-shorteners/refs/heads/main/logos/tinube.png",
     "tags": [
       "free",
       "qr codes"
@@ -83,10 +83,10 @@
   },
   {
     "id": 8,
-    "name": "t2m",
+    "name": "T2MIO",
     "url": "https://t2mio.com/",
     "sticky": false,
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/harrisonratcliffe/best-url-shorteners/refs/heads/main/logos/t2mio.svg",
     "tags": [
       "paid",
       "custom domains",
@@ -98,7 +98,7 @@
     "name": "Switchy",
     "url": "https://www.switchy.io/",
     "sticky": false,
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/harrisonratcliffe/best-url-shorteners/refs/heads/main/logos/switchy.png",
     "tags": [
       "free",
       "paid",
@@ -110,7 +110,7 @@
     "name": "Spoo",
     "url": "https://spoo.me",
     "sticky": false,
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/harrisonratcliffe/best-url-shorteners/refs/heads/main/logos/spoome.png",
     "tags": [
       "free"
     ]
@@ -120,7 +120,7 @@
     "name": "Small SEO Tools",
     "url": "https://smallseotools.com/url-shortener/",
     "sticky": false,
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/harrisonratcliffe/best-url-shorteners/refs/heads/main/logos/smallseotools.jpg",
     "tags": [
       "free"
     ]
@@ -130,7 +130,7 @@
     "name": "Short URL",
     "url": "https://www.shorturl.at/",
     "sticky": false,
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/harrisonratcliffe/best-url-shorteners/refs/heads/main/logos/shorturlat.png",
     "tags": [
       "free"
     ]
@@ -140,7 +140,7 @@
     "name": "Shorten URL",
     "url": "https://shorten-url.com/en",
     "sticky": false,
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/harrisonratcliffe/best-url-shorteners/refs/heads/main/logos/shortenurl.png",
     "tags": [
       "free",
       "paid",
@@ -153,7 +153,7 @@
     "name": "Short.io",
     "url": "https://short.io/",
     "sticky": false,
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/harrisonratcliffe/best-url-shorteners/refs/heads/main/logos/shortio.png",
     "tags": [
       "free",
       "paid",
@@ -166,7 +166,7 @@
     "name": "Rebrandly",
     "url": "https://www.rebrandly.com/",
     "sticky": false,
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/harrisonratcliffe/best-url-shorteners/refs/heads/main/logos/rebrandly.png",
     "tags": [
       "free",
       "paid",
@@ -179,7 +179,7 @@
     "name": "Dub",
     "url": "https://dub.co/",
     "sticky": false,
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/harrisonratcliffe/best-url-shorteners/refs/heads/main/logos/dub.png",
     "tags": [
       "free",
       "paid",
@@ -192,7 +192,7 @@
     "name": "Cuttly",
     "url": "https://cutt.ly/",
     "sticky": false,
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/harrisonratcliffe/best-url-shorteners/refs/heads/main/logos/cuttly.png",
     "tags": [
       "free",
       "paid",

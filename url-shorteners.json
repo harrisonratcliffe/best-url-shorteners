@@ -1,25 +1,203 @@
 [
-    {
-        "id": 1,
-        "name": "Pretty URL",
-        "url": "https://prettyurl.net",
-        "sticky": true,
-        "logo": "https://raw.githubusercontent.com/harrisonratcliffe/best-url-shorteners/refs/heads/main/logos/prettyurl.webp",
-        "tags": [
-            "custom domains",
-            "free"
-        ]
-    },
-    {
-        "id": 2,
-        "name": "Bitly",
-        "url": "https:/bitly.com",
-        "sticky": false,
-        "logo": "https://raw.githubusercontent.com/harrisonratcliffe/best-url-shorteners/refs/heads/main/logos/bitly.svg",
-        "tags": [
-            "custom domains",
-            "free",
-            "paid"
-        ]
-    }
+  {
+    "id": 1,
+    "name": "Pretty URL",
+    "url": "https://prettyurl.net",
+    "sticky": true,
+    "logo": "https://raw.githubusercontent.com/harrisonratcliffe/best-url-shorteners/refs/heads/main/logos/prettyurl.webp",
+    "tags": [
+      "custom domains",
+      "free"
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Bitly",
+    "url": "https:/bitly.com",
+    "sticky": false,
+    "logo": "https://raw.githubusercontent.com/harrisonratcliffe/best-url-shorteners/refs/heads/main/logos/bitly.svg",
+    "tags": [
+      "custom domains",
+      "free",
+      "paid"
+    ]
+  },
+  {
+    "id": 3,
+    "name": "v.gd",
+    "url": "https://v.gd/",
+    "sticky": false,
+    "logo": "",
+    "tags": [
+      "free"
+    ]
+  },
+  {
+    "id": 4,
+    "name": "URLR",
+    "url": "https://urlr.me/en/",
+    "sticky": false,
+    "logo": "",
+    "tags": [
+      "free",
+      "paid",
+      "custom domains",
+      "qr codes"
+    ]
+  },
+  {
+    "id": 5,
+    "name": "T.ly",
+    "url": "https://t.ly/",
+    "sticky": false,
+    "logo": "",
+    "tags": [
+      "free",
+      "paid",
+      "custom domains",
+      "qr codes"
+    ]
+  },
+  {
+    "id": 6,
+    "name": "Tiny CC",
+    "url": "https://tinycc.com/",
+    "sticky": false,
+    "logo": "",
+    "tags": [
+      "paid",
+      "custom domains",
+      "qr codes"
+    ]
+  },
+  {
+    "id": 7,
+    "name": "Tinu.be",
+    "url": "https://tinu.be/en",
+    "sticky": false,
+    "logo": "",
+    "tags": [
+      "free",
+      "qr codes"
+    ]
+  },
+  {
+    "id": 8,
+    "name": "t2m",
+    "url": "https://t2mio.com/",
+    "sticky": false,
+    "logo": "",
+    "tags": [
+      "paid",
+      "custom domains",
+      "qr codes"
+    ]
+  },
+  {
+    "id": 9,
+    "name": "Switchy",
+    "url": "https://www.switchy.io/",
+    "sticky": false,
+    "logo": "",
+    "tags": [
+      "free",
+      "paid",
+      "custom domains"
+    ]
+  },
+  {
+    "id": 10,
+    "name": "Spoo",
+    "url": "https://spoo.me",
+    "sticky": false,
+    "logo": "",
+    "tags": [
+      "free"
+    ]
+  },
+  {
+    "id": 11,
+    "name": "Small SEO Tools",
+    "url": "https://smallseotools.com/url-shortener/",
+    "sticky": false,
+    "logo": "",
+    "tags": [
+      "free"
+    ]
+  },
+  {
+    "id": 12,
+    "name": "Short URL",
+    "url": "https://www.shorturl.at/",
+    "sticky": false,
+    "logo": "",
+    "tags": [
+      "free"
+    ]
+  },
+  {
+    "id": 13,
+    "name": "Shorten URL",
+    "url": "https://shorten-url.com/en",
+    "sticky": false,
+    "logo": "",
+    "tags": [
+      "free",
+      "paid",
+      "custom domains",
+      "qr codes"
+    ]
+  },
+  {
+    "id": 14,
+    "name": "Short.io",
+    "url": "https://short.io/",
+    "sticky": false,
+    "logo": "",
+    "tags": [
+      "free",
+      "paid",
+      "custom domains",
+      "qr codes"
+    ]
+  },
+  {
+    "id": 15,
+    "name": "Rebrandly",
+    "url": "https://www.rebrandly.com/",
+    "sticky": false,
+    "logo": "",
+    "tags": [
+      "free",
+      "paid",
+      "custom domains",
+      "qr codes"
+    ]
+  },
+  {
+    "id": 16,
+    "name": "Dub",
+    "url": "https://dub.co/",
+    "sticky": false,
+    "logo": "",
+    "tags": [
+      "free",
+      "paid",
+      "custom domains",
+      "qr codes"
+    ]
+  },
+  {
+    "id": 17,
+    "name": "Cuttly",
+    "url": "https://cutt.ly/",
+    "sticky": false,
+    "logo": "",
+    "tags": [
+      "free",
+      "paid",
+      "custom domains",
+      "qr codes"
+    ]
+  }
 ]
